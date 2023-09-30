@@ -1,5 +1,4 @@
-this file is the basic of c-programming
-inisialising 
+this file is the basic of c-programmin 
 decalaration
-printing/output
+printing/output/input
 
